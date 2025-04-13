@@ -51,6 +51,7 @@ my_context/
 config.json
 .env
 .env.*
+embedded_hashes.json
 
 # 🔍 Debug outputs
 output/
