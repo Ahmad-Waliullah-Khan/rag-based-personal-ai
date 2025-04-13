@@ -1,0 +1,58 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 🧪 Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# 📦 Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# 🗃 Bytecode + Logs
+*.log
+*.sqlite
+*.db
+*.bak
+*.swp
+*.tmp
+
+# 📄 OS-specific
+.DS_Store
+Thumbs.db
+
+# 🌐 IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# 🧠 Vector store and memory
+db/
+chat_threads.json
+file_hash_cache.json
+chat_history.json
+
+# 📂 Uploaded files
+my_context/uploads/
+my_context/
+
+# 🔧 Local configs
+config.json
+.env
+.env.*
+
+# 🔍 Debug outputs
+output/
+test_output/
+
