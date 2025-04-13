@@ -55,8 +55,8 @@ friday-ai/
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourname/friday-ai.git
-cd friday-ai
+git clone https://github.com/Ahmad-Waliullah-Khan/rag-based-personal-ai
+cd rag-based-personal-ai
 python3 -m venv venv
 source venv/bin/activate
 
